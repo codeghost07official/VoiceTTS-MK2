@@ -1,0 +1,6 @@
+{
+  "name": "VOICE TTS MK2",
+  "description": "High-fidelity text-to-speech synthesis workstation with cosmic particle visualization, multiple voices, speed modulation, and WAV audio export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
